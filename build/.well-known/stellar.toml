@@ -1,28 +1,42 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAANNOYKFJIQISJ6JOPW2U2O7FGTWRHC7MHUFVOSZSLUN45MVYQDRBBM"
+"GCATC322VVSHUBOUTGZ4ECPQ4X7F3OVUD666PAHLHBSSX3PSOAWO7VHY", 
+"GADEDFCBFDU23ABL4ZVZLIUHIS42ZR65RFP74KALS7GNJX4SDMU4CJXI"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/09wWPz9/tok1.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="MetalInvest"
+ORG_URL="https://metalinvest.org"
+ORG_DESCRIPTION="METALINVEST IS THE FIRST PLATFORM FOR TOKENIZED PRECIOUS METALS, ENABLING EVERYONE TO ACCESS THE $856B+ GLOBAL METAL MARKET."
+ORG_TWITTER="@Metalinvest_org"
+ORG_LOGO="https://i.ibb.co/52ZfzS6/metalinvest-org.png"
+ORG_OFFICIAL_EMAIL="metalinvest@gmail.com"
 
 
 [[CURRENCIES]]
-code="Fortus"
-issuer="GAANNOYKFJIQISJ6JOPW2U2O7FGTWRHC7MHUFVOSZSLUN45MVYQDRBBM"
+code="XAU"
+issuer="GCATC322VVSHUBOUTGZ4ECPQ4X7F3OVUD666PAHLHBSSX3PSOAWO7VHY"
 anchor_asset="false"
-name="Fortus"
-desc="The revolutionary token which can change radically the whole understanding of the blockchain"
+name="Tokenized Gold"
+desc="Of all the precious metals, gold is the most popular as an investment. Investors generally buy gold as a way of diversifying risk, especially through the use of futures contracts and derivatives. Each XAU token is worth 0.01 OZ of GOLD"
 conditions=""
-image="https://i.ibb.co/09wWPz9/tok1.jpg"
+image="https://i.ibb.co/6WPCfqh/XAU.jpg"
+fixed_number=100000
+max_number=100000
+is_unlimited=false
+#Tokenized Gold was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="XAG"
+issuer="GADEDFCBFDU23ABL4ZVZLIUHIS42ZR65RFP74KALS7GNJX4SDMU4CJXI"
+anchor_asset="false"
+name="Tokenized Silver"
+desc="Gold tends to get all the glory in the investing world, but from time to time, the financial spotlight falls on silver, and it shoots up in price, even outperforming its yellow-metal cousin in the market. Each XAG token is worth 0.01 OZ of SILVER"
+conditions=""
+image="https://i.ibb.co/6tZSsfR/XAG.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#Fortus was issued using the open and inclusive Stellar blockchain network.
+#Tokenized Silver was issued using the open and inclusive Stellar blockchain network.
