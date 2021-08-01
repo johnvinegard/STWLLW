@@ -1,8 +1,8 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCATC322VVSHUBOUTGZ4ECPQ4X7F3OVUD666PAHLHBSSX3PSOAWO7VHY", 
-"GADEDFCBFDU23ABL4ZVZLIUHIS42ZR65RFP74KALS7GNJX4SDMU4CJXI"
+"GBXJFIGPL7RMHSBLM4HTOOQ37JKSXKMIM6I7FLZVYH4ARQ625Y5YR2Z6", 
+"GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK"
 ]
 VERSION="2.0.0"
 
@@ -12,12 +12,12 @@ ORG_URL="metalinvest.org"
 ORG_DESCRIPTION="METALINVEST IS THE FIRST PLATFORM FOR TOKENIZED PRECIOUS METALS, ENABLING EVERYONE TO ACCESS THE $856B+ GLOBAL METAL MARKET."
 ORG_TWITTER="@Metalinvest_org"
 ORG_LOGO="https://i.ibb.co/52ZfzS6/metalinvest-org.png"
-ORG_OFFICIAL_EMAIL="metalinvest@gmail.com"
+ORG_OFFICIAL_EMAIL="metalinvestnet@gmail.com"
 
 
 [[CURRENCIES]]
 code="XAU"
-issuer="GCATC322VVSHUBOUTGZ4ECPQ4X7F3OVUD666PAHLHBSSX3PSOAWO7VHY"
+issuer="GBXJFIGPL7RMHSBLM4HTOOQ37JKSXKMIM6I7FLZVYH4ARQ625Y5YR2Z6"
 anchor_asset="false"
 name="Tokenized Gold"
 desc="Of all the precious metals, gold is the most popular as an investment. Investors generally buy gold as a way of diversifying risk, especially through the use of futures contracts and derivatives. Each XAU token is worth 0.01 OZ of GOLD"
@@ -30,7 +30,7 @@ is_unlimited=false
 
 [[CURRENCIES]]
 code="XAG"
-issuer="GADEDFCBFDU23ABL4ZVZLIUHIS42ZR65RFP74KALS7GNJX4SDMU4CJXI"
+issuer="GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK"
 anchor_asset="false"
 name="Tokenized Silver"
 desc="Gold tends to get all the glory in the investing world, but from time to time, the financial spotlight falls on silver, and it shoots up in price, even outperforming its yellow-metal cousin in the market. Each XAG token is worth 0.01 OZ of SILVER"
