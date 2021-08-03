@@ -27,7 +27,6 @@ image="https://i.ibb.co/Jtcrbty/aurum.png"
 fixed_number=100000
 max_number=100000
 is_unlimited=false
-#Tokenized Gold was issued using the open and inclusive Stellar blockchain network.
 
 [[CURRENCIES]]
 code="XAG"
@@ -40,4 +39,3 @@ image="https://i.ibb.co/WBSfX7j/silver.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#Tokenized Silver was issued using the open and inclusive Stellar blockchain network.
