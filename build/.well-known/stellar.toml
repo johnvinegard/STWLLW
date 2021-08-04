@@ -4,7 +4,7 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 ACCOUNTS=[
 "GBXJFIGPL7RMHSBLM4HTOOQ37JKSXKMIM6I7FLZVYH4ARQ625Y5YR2Z6", 
 "GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK",
-"GAZEVUNVII5B4UQFJZ2MLMG3AN5DSKEVNBXBQIN65WR2M7KIW5YPLU2V"
+"GCWJYGLODM2G43P4BHYAENEU6VNF6AZIM7WRRGUSLW3WXHZH2IQK4MRJ"
 ]
 VERSION="2.2.1"
 
@@ -43,7 +43,7 @@ is_unlimited=false
 
 [[CURRENCIES]]
 code="XPD"
-issuer="GAZEVUNVII5B4UQFJZ2MLMG3AN5DSKEVNBXBQIN65WR2M7KIW5YPLU2V"
+issuer="GCWJYGLODM2G43P4BHYAENEU6VNF6AZIM7WRRGUSLW3WXHZH2IQK4MRJ"
 anchor_asset="false"
 name="Tokenized Palladium"
 desc="Palladium is the most valuable of the four major precious metals, with an acute shortage driving prices to records in recent years. A key component in pollution-control devices, the metal’s price has been on a tear, rising more than sixfold since early 2016, an increase that’s lifted it above the price of gold."
