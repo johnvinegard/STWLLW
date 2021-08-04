@@ -3,7 +3,8 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GBXJFIGPL7RMHSBLM4HTOOQ37JKSXKMIM6I7FLZVYH4ARQ625Y5YR2Z6", 
-"GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK"
+"GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK",
+"GAZEVUNVII5B4UQFJZ2MLMG3AN5DSKEVNBXBQIN65WR2M7KIW5YPLU2V"
 ]
 VERSION="2.2.1"
 
@@ -22,7 +23,7 @@ issuer="GBXJFIGPL7RMHSBLM4HTOOQ37JKSXKMIM6I7FLZVYH4ARQ625Y5YR2Z6"
 anchor_asset="false"
 name="Tokenized Gold"
 desc="Of all the precious metals, gold is the most popular as an investment. Investors generally buy gold as a way of diversifying risk, especially through the use of futures contracts and derivatives. Each XAU token is worth 0.01 OZ of GOLD"
-conditions=""
+conditions="Our supply of Tokenized Gold (XAU) is limited. Hurry up and get your tokens as soon as possible!"
 image="https://i.ibb.co/Jtcrbty/aurum.png"
 fixed_number=100000
 max_number=100000
@@ -34,8 +35,20 @@ issuer="GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK"
 anchor_asset="false"
 name="Tokenized Silver"
 desc="Gold tends to get all the glory in the investing world, but from time to time, the financial spotlight falls on silver, and it shoots up in price, even outperforming its yellow-metal cousin in the market. Each XAG token is worth 0.01 OZ of SILVER"
-conditions=""
+conditions="Our supply of Tokenized Silver (XAG) is limited. Hurry up and get your tokens as soon as possible!"
 image="https://i.ibb.co/WBSfX7j/silver.png"
 fixed_number=10000000
 max_number=10000000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="XPD"
+issuer="GAZEVUNVII5B4UQFJZ2MLMG3AN5DSKEVNBXBQIN65WR2M7KIW5YPLU2V"
+anchor_asset="false"
+name="Tokenized Palladium"
+desc="Palladium is the most valuable of the four major precious metals, with an acute shortage driving prices to records in recent years. A key component in pollution-control devices, the metal’s price has been on a tear, rising more than sixfold since early 2016, an increase that’s lifted it above the price of gold."
+conditions="Our supply of Tokenized Palladium (XPD) is limited. Hurry up and get your tokens as soon as possible!"
+image="https://i.ibb.co/nLQYdmx/paladium.png"
+fixed_number=100000
+max_number=100000
 is_unlimited=false
