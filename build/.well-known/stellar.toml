@@ -6,7 +6,8 @@ ACCOUNTS=[
 "GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK",
 "GCWJYGLODM2G43P4BHYAENEU6VNF6AZIM7WRRGUSLW3WXHZH2IQK4MRJ",
 "GAFPPZ2KVIJEVQTCWGE5D33RRX7CLBDMOTDQAUUT5S5GVC3K3ZU6NRSZ",
-"GAREWGATUELLAK7ZQFOD44JF5U6MPKSXQB4OV64PQE2MYOY7UPK3YYJI"
+"GAREWGATUELLAK7ZQFOD44JF5U6MPKSXQB4OV64PQE2MYOY7UPK3YYJI",
+"GA6D3EMUMRLTQAU2M3PXV77KHKAJ2HFNHCRASHY4UTNNKZD45NAHUQ4H"
 ]
 VERSION="2.2.1"
 
@@ -75,6 +76,18 @@ name="Tokenized Nickel"
 desc="Nickel is a key base metal in a society moving toward renewable energy and electric vehicles. It is in a wide variety of products like batteries, mobile phones, wind turbines, gas turbines and medical equipment. Most nickel currently used in production is found in stainless steel. Nickel is excellent in alloys, and there are 3,000 of them."
 conditions="Our supply of Tokenized Nickel (XNI) is limited. Hurry up and get your tokens as soon as possible!"
 image="https://i.ibb.co/pQbFhcx/nickelyellow.png"
+fixed_number=100000
+max_number=100000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="XLI"
+issuer="GA6D3EMUMRLTQAU2M3PXV77KHKAJ2HFNHCRASHY4UTNNKZD45NAHUQ4H"
+anchor_asset="false"
+name="Tokenized Lithium"
+desc="Lithium is a critical mineral and will be one of the drivers of the fourth industrial revolution. Lithium is an essential mineral that goes into the manufacture of electric batteries . Lithium supply is expected to fall short of the demand for this metal by 2023 and significant amounts of lithium supply will need to be brought online to meet demand growth from the lithium market."
+conditions="Our supply of Tokenized Lithium (XLI) is limited. Hurry up and get your tokens as soon as possible!"
+image="https://i.ibb.co/cNVTsfB/li.png"
 fixed_number=100000
 max_number=100000
 is_unlimited=false
