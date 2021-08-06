@@ -5,7 +5,8 @@ ACCOUNTS=[
 "GBXJFIGPL7RMHSBLM4HTOOQ37JKSXKMIM6I7FLZVYH4ARQ625Y5YR2Z6", 
 "GC5W7XYTZNN3MWO7FOVWRUZZQNVKGIGOWNHKIJ3NYCYNA6QW5Y5WMWVK",
 "GCWJYGLODM2G43P4BHYAENEU6VNF6AZIM7WRRGUSLW3WXHZH2IQK4MRJ",
-"GAFPPZ2KVIJEVQTCWGE5D33RRX7CLBDMOTDQAUUT5S5GVC3K3ZU6NRSZ"
+"GAFPPZ2KVIJEVQTCWGE5D33RRX7CLBDMOTDQAUUT5S5GVC3K3ZU6NRSZ",
+"GAREWGATUELLAK7ZQFOD44JF5U6MPKSXQB4OV64PQE2MYOY7UPK3YYJI"
 ]
 VERSION="2.2.1"
 
@@ -62,6 +63,18 @@ name="Tokenized Platinum"
 desc="Platinum is the most valued precious metal; its value exceeds even that of Gold. It has a beautiful silver-white color, and, unlike Silver, does not tarnish. It is unaffected by common household chemicals and will not get damaged or discolored by chlorine, bleach, or detergents."
 conditions="Our supply of Tokenized Platinum (XPT) is limited. Hurry up and get your tokens as soon as possible!"
 image="https://i.ibb.co/CMVmnx9/lastPT.png"
+fixed_number=100000
+max_number=100000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="XNI"
+issuer="GAREWGATUELLAK7ZQFOD44JF5U6MPKSXQB4OV64PQE2MYOY7UPK3YYJI"
+anchor_asset="false"
+name="Tokenized Nickel"
+desc="Nickel is a key base metal in a society moving toward renewable energy and electric vehicles. It is in a wide variety of products like batteries, mobile phones, wind turbines, gas turbines and medical equipment. Most nickel currently used in production is found in stainless steel. Nickel is excellent in alloys, and there are 3,000 of them."
+conditions="Our supply of Tokenized Nickel (XNI) is limited. Hurry up and get your tokens as soon as possible!"
+image="https://i.ibb.co/pQbFhcx/nickelyellow.png"
 fixed_number=100000
 max_number=100000
 is_unlimited=false
