@@ -447,7 +447,8 @@ p {
 .projects .projects_body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 50px
+    grid-gap: 50px;
+    margin-bottom: 80px
 }
 
 .projects .projects_body .single_cart {
@@ -466,12 +467,6 @@ p {
 
 .projects .projects_body .single_cart:first-child {
     margin-left: 0
-}
-
-.projects .projects_body .single_cart:hover {
-    -webkit-transform: scale(1.1);
-    -ms-transform: scale(1.1);
-    transform: scale(1.1)
 }
 
 .projects .projects_body .single_cart h4 {
