@@ -8,7 +8,8 @@ ACCOUNTS=[
 "GAFPPZ2KVIJEVQTCWGE5D33RRX7CLBDMOTDQAUUT5S5GVC3K3ZU6NRSZ",
 "GAREWGATUELLAK7ZQFOD44JF5U6MPKSXQB4OV64PQE2MYOY7UPK3YYJI",
 "GA6D3EMUMRLTQAU2M3PXV77KHKAJ2HFNHCRASHY4UTNNKZD45NAHUQ4H",
-"GDBD2SKU7SHA5UC6MXT5HZRM4FCEL65RFGOAYC5TSDPIJSA7Q362FNFM"
+"GDBD2SKU7SHA5UC6MXT5HZRM4FCEL65RFGOAYC5TSDPIJSA7Q362FNFM",
+"GCV5YUMFX2UQXBSVBSQY3YG4XHQIBV36OLA2BG26HLBO6CHCCLMGBXNF"
 ]
 VERSION="2.2.1"
 
@@ -106,3 +107,15 @@ fixed_number=1000000
 max_number=1000000
 is_unlimited=false
 
+
+[[CURRENCIES]]
+code="XTI"
+issuer="GCV5YUMFX2UQXBSVBSQY3YG4XHQIBV36OLA2BG26HLBO6CHCCLMGBXNF"
+anchor_asset="false"
+name="Tokenized Titanium"
+desc="Titanium is a highly versatile metal that is used in a variety of industries. Some of the most popular uses for titanium metal include jewelry, aerospace manufacturing, electronic products, and precision cutting tools. Titanium is lightweight, durable, and resistant to chemicals, temperature extremes, abrasions, and a variety of other factors that can cause some metals to break down or become damaged. Titanium is also highly resistant to rust-even more so than some stainless steels."
+conditions="Our supply of Tokenized Titanium (XTI) is limited. Hurry up and get your tokens as soon as possible!"
+image="https://i.ibb.co/wNXvfQM/SPOILER-titanium.png"
+fixed_number=1000000
+max_number=1000000
+is_unlimited=false
