@@ -7,7 +7,8 @@ ACCOUNTS=[
 "GCWJYGLODM2G43P4BHYAENEU6VNF6AZIM7WRRGUSLW3WXHZH2IQK4MRJ",
 "GAFPPZ2KVIJEVQTCWGE5D33RRX7CLBDMOTDQAUUT5S5GVC3K3ZU6NRSZ",
 "GAREWGATUELLAK7ZQFOD44JF5U6MPKSXQB4OV64PQE2MYOY7UPK3YYJI",
-"GA6D3EMUMRLTQAU2M3PXV77KHKAJ2HFNHCRASHY4UTNNKZD45NAHUQ4H"
+"GA6D3EMUMRLTQAU2M3PXV77KHKAJ2HFNHCRASHY4UTNNKZD45NAHUQ4H",
+"GDBD2SKU7SHA5UC6MXT5HZRM4FCEL65RFGOAYC5TSDPIJSA7Q362FNFM"
 ]
 VERSION="2.2.1"
 
@@ -90,5 +91,18 @@ conditions="Our supply of Tokenized Lithium (XLI) is limited. Hurry up and get y
 image="https://i.ibb.co/cNVTsfB/li.png"
 fixed_number=100000
 max_number=100000
+is_unlimited=false
+
+
+[[CURRENCIES]]
+code="XCU"
+issuer="GDBD2SKU7SHA5UC6MXT5HZRM4FCEL65RFGOAYC5TSDPIJSA7Q362FNFM"
+anchor_asset="false"
+name="Tokenized Copper"
+desc="Copper is the unassuming metal that has spent millennia as third fiddle to gold and silver, its more prestigious counterparts in Group IB of the periodic table. Copper is such a third-rate metal that it has to be alloyed with tin before it's used to make Olympic medals. Despite copper’s status, it’s among the most versatile metals in existence. Couple its utility with the low price, and this might be an opportune time for investors to take a closer look."
+conditions="Our supply of Tokenized Copper (XCU) is limited. Hurry up and get your tokens as soon as possible!"
+image="https://i.ibb.co/rGVrBkx/SPOILER-copper.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
 
