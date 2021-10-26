@@ -9,7 +9,8 @@ ACCOUNTS=[
 "GAREWGATUELLAK7ZQFOD44JF5U6MPKSXQB4OV64PQE2MYOY7UPK3YYJI",
 "GA6D3EMUMRLTQAU2M3PXV77KHKAJ2HFNHCRASHY4UTNNKZD45NAHUQ4H",
 "GDBD2SKU7SHA5UC6MXT5HZRM4FCEL65RFGOAYC5TSDPIJSA7Q362FNFM",
-"GCV5YUMFX2UQXBSVBSQY3YG4XHQIBV36OLA2BG26HLBO6CHCCLMGBXNF"
+"GCV5YUMFX2UQXBSVBSQY3YG4XHQIBV36OLA2BG26HLBO6CHCCLMGBXNF",
+"GAVFKZQH5NZDQTIC6HTF32ZB7JM42YSYZPVY5WVULNEPKHXA6DHSOSDM"
 ]
 VERSION="2.2.1"
 
@@ -116,6 +117,18 @@ name="Tokenized Titanium"
 desc="Titanium is a highly versatile metal that is used in a variety of industries. Some of the most popular uses for titanium metal include jewelry, aerospace manufacturing, electronic products, and precision cutting tools. Titanium is lightweight, durable, and resistant to chemicals, temperature extremes, abrasions, and a variety of other factors that can cause some metals to break down or become damaged. Titanium is also highly resistant to rust-even more so than some stainless steels."
 conditions="Our supply of Tokenized Titanium (XTI) is limited. Hurry up and get your tokens as soon as possible!"
 image="https://i.ibb.co/wNXvfQM/SPOILER-titanium.png"
+fixed_number=1000000
+max_number=1000000
+is_unlimited=false
+
+[[CURRENCIES]]
+code="XIR"
+issuer="GAVFKZQH5NZDQTIC6HTF32ZB7JM42YSYZPVY5WVULNEPKHXA6DHSOSDM"
+anchor_asset="false"
+name="Tokenized Iridium"
+desc="Iridium is one of 31 transitional metals and one of a handful of precious metals along with gold, silver, platinum and palladium. With a limited mining rate and location, iridium is a rare precious metal with a high investment point and a solid regular increase in value. Iridium in the Earth’s crust is also very rare. Commonly mined in Russia and China, along with other transitional precious metals, it is believed that there is much more iridium element deep in the Earth’s core due to it’s ability to bind with iron."
+conditions="Our supply of Tokenized Iridium (XIR) is limited. Hurry up and get your tokens as soon as possible!"
+image=""
 fixed_number=1000000
 max_number=1000000
 is_unlimited=false
